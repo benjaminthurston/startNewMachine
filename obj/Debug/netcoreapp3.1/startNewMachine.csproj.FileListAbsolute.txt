@@ -1,0 +1,12 @@
+/Users/benjaminthurston/projects/codeLou/startNewMachine/bin/Debug/netcoreapp3.1/startNewMachine.deps.json
+/Users/benjaminthurston/projects/codeLou/startNewMachine/bin/Debug/netcoreapp3.1/startNewMachine.runtimeconfig.json
+/Users/benjaminthurston/projects/codeLou/startNewMachine/bin/Debug/netcoreapp3.1/startNewMachine.runtimeconfig.dev.json
+/Users/benjaminthurston/projects/codeLou/startNewMachine/bin/Debug/netcoreapp3.1/startNewMachine.dll
+/Users/benjaminthurston/projects/codeLou/startNewMachine/bin/Debug/netcoreapp3.1/startNewMachine.pdb
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.csprojAssemblyReference.cache
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.AssemblyInfoInputs.cache
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.AssemblyInfo.cs
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.csproj.CoreCompileInputs.cache
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.dll
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.pdb
+/Users/benjaminthurston/projects/codeLou/startNewMachine/obj/Debug/netcoreapp3.1/startNewMachine.genruntimeconfig.cache
